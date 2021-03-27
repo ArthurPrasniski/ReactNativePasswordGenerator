@@ -22,7 +22,7 @@ Projeto desenvolvido durante o curso React Native do Zero ao avançado oferecida
 ###  Tela inicial do Aplicativo
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	<img alt="Página de cadastro de vídeo" src="https://i.ibb.co/JkBYr1r/Print-Tela-Um.png" width="100%"
+  	<img alt="Página de cadastro de vídeo" src="https://i.ibb.co/JkBYr1r/Print-Tela-Um.png" width="30%"
   	
 </p>
 
