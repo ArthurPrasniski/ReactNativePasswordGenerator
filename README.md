@@ -19,27 +19,48 @@
 Projeto desenvolvido durante o curso React Native do Zero ao avançado oferecida por [Sujeito Programador](https://sujeitoprogramador.com/fabricadeaplicativos/?ref=A32765750V&gclid=CjwKCAjwr_uCBhAFEiwAX8YJgZX42NflaFXaGqAvrRNg_v_JlFM-4y17-Xo-pqrQZG-Sys0jkkx5oRoCinIQAvD_BwE).
 ---
 
-###  Tela inicial do Aplicativo
+### Tela inicial do aplicativo
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  	<img alt="Página de cadastro de vídeo" src="https://i.ibb.co/JkBYr1r/Print-Tela-Um.png" width="30%"
-  	
+  	<img alt="Tela inicial" src="https://i.ibb.co/JkBYr1r/Print-Tela-Um.png" width="30%">
+  	<img alt="Tela inicial" src="https://i.ibb.co/M9xddWF/Print-Tela-Dois.png"  width="30%">  	
+</p>
+
+### Tela de geração de senha
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  	<img alt="Tela geração de senha"  src="https://i.ibb.co/b1GFXFM/Print-Tela-Tres.png"  width="30%">  	 	
+</p>
+
+### Tela do clipboard da senha
+
+ <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  	<img alt="Tela geração de senha" src="https://i.ibb.co/hdGSsH3/Print-Tela-Quatro.png"   width="30%">  	 	
 </p>
 
 ---
+
 ## 🛠 Tecnologias
+
 As seguintes ferramentas foram usadas na construção do projeto:
+
 - **[React Native](https://reactnative.dev/)**
 - **[JavaScript](https://www.javascript.com)**
 - **[Expo](https://expo.io/)**
+
 ---
+
 ## 💪 Como contribuir para o projeto
+
 1. Faça um **fork** do projeto.
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
 4. Envie as suas alterações: `git push origin my-feature`
+
 ---
+
 ## 👨‍💻 Autor
+
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/29102493?v=4" width="100px;" alt=""/>
  <br />
  <p><b>Arthur Prasniski</b></p> 
@@ -48,4 +69,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/arthur-prasniski-717a54155/) 
 ---
 Feito por Arthur Prasniski 👋🏻 [Entre em contato!](https://www.linkedin.com/in/arthur-prasniski-717a54155/)
-
