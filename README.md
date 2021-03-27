@@ -11,6 +11,7 @@
 ## 💻 Sobre o projeto
 🏫 Gerador de senhas aleatórias - É uma aplicativo de geração de senhas de maneita aleatória com a escolha entre 5 e 15 caracteres variados entre letras, números e caracters especiais.
 Projeto desenvolvido durante o curso React Native do zero ao avançado oferecida por Sujeito programador.
+
 ### Tela inicial do aplicativo
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
