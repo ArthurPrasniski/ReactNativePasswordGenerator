@@ -1,9 +1,3 @@
-</p>
-
-<!-- <h1 align="center">
-    <img alt="NextLevelWeek#02" title="#NextLevelWeek#02" src="https://github.com/grioos/proffy-discovery/blob/master/.github/screenshots/logo.png?raw=true" />
-    <img alt="NextLevelWeek#02" title="#NextLevelWeek#02" src="https://github.com/grioos/proffy-discovery/raw/master/.github/screenshots/banner.png" />
-</h1> -->
 
 <h4 align="center"> 
 	🚧  Gerador de senhas aleatórias 🏫 Concluído 🚧
@@ -16,9 +10,7 @@
 </p>
 ## 💻 Sobre o projeto
 🏫 Gerador de senhas aleatórias - É uma aplicativo de geração de senhas de maneita aleatória com a escolha entre 5 e 15 caracteres variados entre letras, números e caracters especiais.
-Projeto desenvolvido durante o curso React Native do Zero ao avançado oferecida por [Sujeito Programador](https://sujeitoprogramador.com/fabricadeaplicativos/?ref=A32765750V&gclid=CjwKCAjwr_uCBhAFEiwAX8YJgZX42NflaFXaGqAvrRNg_v_JlFM-4y17-Xo-pqrQZG-Sys0jkkx5oRoCinIQAvD_BwE).
----
-
+Projeto desenvolvido durante o curso React Native do zero ao avançado oferecida por Sujeito programador.
 ### Tela inicial do aplicativo
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
@@ -50,12 +42,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## 💪 Como contribuir para o projeto
+## 💪 Como executar o projeto
 
-1. Faça um **fork** do projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
-4. Envie as suas alterações: `git push origin my-feature`
+1. Faça um **clone** do projeto.
+2. Abra o projeto no seu editor de codigo favorito.
+3. Execute **yarn** ou **npm install** para baixar as dependências do projeto 
+4. Apos baixar as dependências execute **expo start** e execute o projeto em seu smartphone ou emulador.
 
 ---
 
